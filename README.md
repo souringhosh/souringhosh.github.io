@@ -1,5 +1,5 @@
 # Hi I am Sourin...
-[About Me](https://github.com/souringhosh/souringhosh.github.io/blob/master/homepage.md)
+[About Me](https://souringhosh.github.io/aboutme.md)
 
 ## My Projects
 

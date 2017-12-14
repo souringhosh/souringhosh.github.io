@@ -1,6 +1,3 @@
-# Sourin Ghosh
-## Senior Research Engineer at TATA Consultancy Services Ltd.(since 2012)
-### M.Tech. in Signal Processing, COEP
 [More about me](aboutme.md)
 
 ## Projects:

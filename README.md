@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Sourin Ghosh"
-date:   2017-12-14 22:39:01 -0600
-categories: jekyll update
----
-
 # Sourin Ghosh
 ## Senior Research Engineer at TATA Consultancy Services Ltd.(since 2012)
 ### M.Tech. in Signal Processing, COEP

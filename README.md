@@ -1,5 +1,12 @@
+---
+layout: post
+title:  "Sourin Ghosh"
+date:   2017-12-14 22:39:01 -0600
+categories: jekyll update
+---
+
 # Sourin Ghosh
-## Senior Research Engineer at TATA Consultancy Services Ltd.
+## Senior Research Engineer at TATA Consultancy Services Ltd.(since 2012)
 ### M.Tech. in Signal Processing, COEP
 [More about me](aboutme.md)
 
@@ -8,8 +15,9 @@
 Developed as a part of B.Tech project, this application aims at classification of blood cancer through image based analysis of peripheral blood.
 [Publication](http://ieeexplore.ieee.org/document/7087834/)
 
-### 4. High Speed Photography
+### 4. High Speed Photography:
 - M.Tech Project
+
 - Schlieren Flow Visualization
 - Assignments for Arvind Gupta Toys
 

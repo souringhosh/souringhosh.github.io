@@ -2,11 +2,22 @@
 
 ## Projects:
 ### 1. High Speed Photography:
+The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
 1.1 M.Tech Project
+As a part of COEP E&TC Department's Centre for Image Analysis, I collaborated with the Dept. of Metallurgy and Material Sciences for my dissertation work on analysing the Melt Pool during Laser Cladding and Sintering processes using High speed photography. 
+An image processing based analysis method was proposed through parameteric variations of laser on the build quality of
+laser cladded and sintered products.
+
 1.2 Schlieren Flow Visualization
+This project involved using High Speed Photography to visualize sound waves. An optics based experiment was designed to study transmission of sound waves through air. For this, high impulse sounds(like cracker gunshots) were produced and High speed videos were recorded at 40.000 fps and we could observe visually observe how the waves travel. 
+See Demo
+
 1.3 Assignments for Arvind Gupta Toys
+[Arvind Gupta - An Engineer who creates Toys](http://www.ted.com/talks/arvind_gupta_turning_trash_into_toys_for_learning#t-913222)
+During a small research exploration at the [IUCAA](www.iucaa.ernet.in/) we stumbled across the small office of this immensely popular man and recorded high speed videos of few of the simple experiments that he so beautifully explains in his videos. Our videos provide a slow motion insight into the world of science through these toys.
 
 ### 2. Hyperlapse Photography
+[What is Hyperlapse?](https://en.wikipedia.org/wiki/Hyperlapse)
 
 ### 3. Leucocyte classification for leukaemia detection using image processing techniques
 

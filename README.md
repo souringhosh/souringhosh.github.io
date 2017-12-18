@@ -29,6 +29,7 @@ During a small research exploration at the [IUCAA](www.iucaa.ernet.in/) we stumb
 
 ### 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
 Developed as a part of B.Tech project, this application aims at classification of blood cancer through image based analysis of peripheral blood.
+
 [Publication](http://ieeexplore.ieee.org/document/7087834/)
 
 ### 5. Differential Edge based ECG Compression using RLE

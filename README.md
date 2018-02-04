@@ -1,17 +1,16 @@
 [More about me](aboutme.md)
 
 [TOC]
+# Projects:
+## 1. High Speed Photography
+## 2. Hyperlapse Photography
+## 3. A Watershed distance transform based leucocyte classification for leukaemia detection
+## 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
+## 5. Differential Edge based ECG Compression using RLE
+## 6. FFT based audio compression of .wav Audio Files
+## 7. Prototype design for Smart Wearable Footwear
 
-## Projects:
-### 1. High Speed Photography
-### 2. Hyperlapse Photography
-### 3. A Watershed distance transform based leucocyte classification for leukaemia detection
-### 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
-### 5. Differential Edge based ECG Compression using RLE
-### 6. FFT based audio compression of .wav Audio Files
-### 7. Prototype design for Smart Wearable Footwear
-
-## LATEX Template - COEP Dissertation
+# LATEX Template - COEP Dissertation
 
 
 
@@ -55,7 +54,7 @@ This project involved writing a C++ application to perform fourier analysis of a
 ### 7. Prototype design for Smart Wearable Footwear
 
 ## LATEX Template - COEP Dissertation
-[Download Template](souringhosh.github.io/COEP Dissertation Report Format.zip )
+[Download Template]{{ site.url }}/COEP Dissertation Report Format.zip 
 
 
 

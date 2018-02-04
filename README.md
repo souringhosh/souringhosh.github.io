@@ -3,7 +3,7 @@
 [TOC]
 
 ## Projects:
-### 1. High Speed Photography:
+### 1. High Speed Photography
 ### 2. Hyperlapse Photography
 ### 3. A Watershed distance transform based leucocyte classification for leukaemia detection
 ### 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
@@ -12,6 +12,8 @@
 ### 7. Prototype design for Smart Wearable Footwear
 
 ## LATEX Template - COEP Dissertation
+
+
 
 ## Projects:
 ### 1. High Speed Photography
@@ -53,7 +55,7 @@ This project involved writing a C++ application to perform fourier analysis of a
 ### 7. Prototype design for Smart Wearable Footwear
 
 ## LATEX Template - COEP Dissertation
-[Download Template](COEP Dissertation Report Format.zip)
+[Download Template](souringhosh.github.io/COEP Dissertation Report Format.zip )
 
 
 

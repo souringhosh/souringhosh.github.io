@@ -1,7 +1,7 @@
 [More about me](aboutme.md)
 
 ## Projects:
-### High Speed Photography
+### High Speed Photography<hr>
 
 The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
 

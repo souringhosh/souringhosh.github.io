@@ -1,23 +1,9 @@
 [More about me](aboutme.md)
 
-[TOC]
-
-# Projects:
-## High Speed Photography
-## Hyperlapse Photography
-## A Watershed distance transform based leucocyte classification for leukaemia detection
-## Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
-## Differential Edge based ECG Compression using RLE
-## FFT based audio compression of .wav Audio Files
-## Prototype design for Smart Wearable Footwear
-## LATEX Template - COEP Dissertation
-
-
-
 ## Projects:
-### High Speed Photography < hr >
+### High Speed Photography
 
->The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
+The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
 
 1 M.Tech Dissertation:
 

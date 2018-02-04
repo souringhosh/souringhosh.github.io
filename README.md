@@ -15,9 +15,9 @@
 
 
 ## Projects:
-### High Speed Photography
+### High Speed Photography < hr >
 
-The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
+>The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
 
 1 M.Tech Dissertation:
 

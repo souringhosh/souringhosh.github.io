@@ -53,8 +53,8 @@ This project involved writing a C++ application to perform fourier analysis of a
 
 ### 7. Prototype design for Smart Wearable Footwear
 
-## LATEX Template - COEP Dissertation [1]
-[1]:{{ site.url }}/COEP Dissertation Report Format.zip
+## LATEX Template - COEP Dissertation
+[Download]({{ site.url }}/COEP Dissertation Report Format.zip)
 
 
 

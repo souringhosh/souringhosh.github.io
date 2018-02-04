@@ -1,7 +1,20 @@
 [More about me](aboutme.md)
 
+[TOC]
+
 ## Projects:
 ### 1. High Speed Photography:
+### 2. Hyperlapse Photography
+### 3. A Watershed distance transform based leucocyte classification for leukaemia detection
+### 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
+### 5. Differential Edge based ECG Compression using RLE
+### 6. FFT based audio compression of .wav Audio Files
+### 7. Prototype design for Smart Wearable Footwear
+
+## LATEX Template - COEP Dissertation
+
+## Projects:
+### 1. High Speed Photography
 
 The camera: [Phantom Flex v311](http://www.phantomhighspeed.com/)
 
@@ -25,7 +38,7 @@ During a small research exploration at the [IUCAA](www.iucaa.ernet.in/) we stumb
 ### 2. Hyperlapse Photography
 [What is Hyperlapse?](https://en.wikipedia.org/wiki/Hyperlapse)
 
-### 3. Leucocyte classification for leukaemia detection using image processing techniques
+### 3. A Watershed distance transform based leucocyte classification for leukaemia detection
 
 ### 4. Detection of Acute Lymphoblastic Leukemia(ALL) using image processing
 Developed as a part of B.Tech project, this application aims at classification of blood cancer through image based analysis of peripheral blood.
@@ -39,7 +52,8 @@ This project involved writing a C++ application to perform fourier analysis of a
 
 ### 7. Prototype design for Smart Wearable Footwear
 
-
+## LATEX Template - COEP Dissertation
+[Download Template](COEP Dissertation Report Format.zip)
 
 
 

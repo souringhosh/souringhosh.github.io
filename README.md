@@ -40,7 +40,7 @@ See Demo
 ### Prototype design for Smart Wearable Footwear
 
 ### LATEX Template - COEP Dissertation
->[Download](COEP Dissertation Report Format.zip)
+>[Download](/COEP Dissertation Report Format.zip "COEP Dissertation Format")
 
 
 
